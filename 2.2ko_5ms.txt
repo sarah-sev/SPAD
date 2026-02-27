@@ -1,0 +1,11 @@
+Count per Interval - histogram count	count - histogram count
+2.55	5
+5.65	4
+8.75	2
+11.85	3
+14.95	7
+18.05	9
+21.15	2
+24.25	2
+27.35	0
+30.45	2
